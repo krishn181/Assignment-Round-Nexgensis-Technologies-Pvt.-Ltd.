@@ -1,0 +1,11 @@
+{
+    "agents": [
+        {
+            "agent_id": "A1",
+            "packages_delivered": 1,
+            "total_distance": 9.9,
+            "efficiency": 9.9
+        }
+    ],
+    "best_agent": "A1"
+}
